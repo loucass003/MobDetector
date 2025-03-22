@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "advancedperipherals:player_detector"
+    }
+  ],
+  "result": {
+    "item": "mob_detector:mob_detector"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "east": "mob_detector:block/mob_detector",
+    "north": "mob_detector:block/mob_detector",
+    "particle": "mob_detector:block/mob_detector",
+    "side": "mob_detector:block/mob_detector",
+    "south": "mob_detector:block/mob_detector",
+    "up": "mob_detector:block/mob_detector",
+    "down": "mob_detector:block/mob_detector",
+    "west": "mob_detector:block/mob_detector"
+  }
+}
